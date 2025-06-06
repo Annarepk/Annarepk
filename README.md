@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dnhoczZudmNreWJua3h0N3M0YWdoZ2hlYmJnN3luZmR5ZmNvNDBtbCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/quALgNVngLyPR46keH/giphy.gif" width="100"/>
+</div>
+
 I am a student at the National Research Nuclear University MEPhI.
 I'm studying Software Engineering.
 My GitHub contains some of my work that I did during the learning process.
