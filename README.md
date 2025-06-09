@@ -17,6 +17,7 @@ My GitHub contains some of my work that I did during the learning process.
 
 ---
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnnaRepk&theme=noctis_minimus)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnnaRepk&theme=noctis_minimus) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnnaRepk&theme=noctis_minimus)
+[![](https://raw.githubusercontent.com/Annarepk/Annarepk/main/profile-summary-card-output/noctis_minimus/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Annarepk/Annarepk/main/profile-summary-card-output/noctis_minimus/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Annarepk/Annarepk/main/profile-summary-card-output/noctis_minimus/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards&exclude=cmake)
+
