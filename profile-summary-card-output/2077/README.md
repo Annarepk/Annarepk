@@ -15,10 +15,10 @@
 ### Each card usage
 ---
 
-![](./2-most-commit-language.svg)
+![](./1-repos-per-language.svg)
 
 ```
-![](https://raw.githubusercontent.com/Annarepk/Annarepk/main/profile-summary-card-output/2077/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/Annarepk/Annarepk/main/profile-summary-card-output/2077/1-repos-per-language.svg)
 ```
 
     
